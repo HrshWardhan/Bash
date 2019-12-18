@@ -1,4 +1,5 @@
-root:x:0:0:root:/root:/bin/bash
-dhull:x:1000:1000:Saksham Dhull,,,:/home/dhull:/bin/bash
-sshd:x:121:65534::/var/run/sshd:/usr/sbin/nologin
-libvirt-qemu:x:64055:129:Libvirt Qemu,,,:/var/lib/libvirt:/bin/false
+100 +
+20 +
+40 -
+10 /
+60 *
